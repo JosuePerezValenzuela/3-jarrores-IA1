@@ -1,6 +1,6 @@
 import sys
 import copy
-
+#tuky tuky
 class jarron():
     maxCap = None
     capAct = None
