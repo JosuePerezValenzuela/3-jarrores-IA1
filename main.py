@@ -112,7 +112,7 @@ class main():
             accion = self.jarron3.copia().vaciarOtroJarron(self.jarron2.copia())
             nuevoCaso12 = pila.append(main(self.jarron1.copia(), accion[1], accion[0],pasos = pasos12))
         return pila
-
+##IA de if y else xd
 print("Inicio")
 prueba = main(jarron(12), jarron(8), jarron(3), 1)
 prueba.primeroEnProfundidad()
